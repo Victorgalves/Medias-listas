@@ -1,2 +1,2 @@
-# Medias-listas
-Cadastro simples de medias para estudos de listas.
+# Medias em [listas]
+Cadastro simples de médias para estudos de listas.
